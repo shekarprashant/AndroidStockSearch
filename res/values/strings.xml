@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidStockSearch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_search">Search</string>
+    <string name="company_symbol">Enter company symbol</string>
+    <string name="btn_facebook">Facebook</string>
+    <string name="change_image_description">Change Image</string>
+    <string name="stock_chart_description">Stock Chart</string>
+    <string name="btn_news">News Headlines</string>
+    <string name="FB_app_id">229482040581016</string>
+    
+    
+
+</resources>
